@@ -5,6 +5,13 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 
 ## Bluprints
 
+- [Graphics rig](#Graphics-rig)
+- [GitHub Actions Scraper](#GitHub-Actions-Scraper)
+- [Chart module](#Chart-module)
+- [Node library](#Node-library)
+
+---
+
 ### [Graphics rig](https://github.com/reuters-graphics/bluprint_graphics-rig)
 
 **What it does:** Single page graphic builder for interactive graphics.
@@ -25,6 +32,14 @@ $ bluprint add reuters-graphics/bluprint_graphics-rig
 $ bluprint add reuters-graphics/bluprint_github-action-scraper
 ```
 
+### [Chart module](https://github.com/reuters-graphics/bluprint_chart-module-svelte)
+
+**What it does:** Builds reusable, npm-installable chart modules.
+
+```
+$ bluprint add reuters-graphics/bluprint_chart-module-svelte
+```
+
 ### [Node library](https://github.com/reuters-graphics/bluprint_node-library)
 
 **What it does:** For building simple Node or JavaScript utility libraries, with built-in testing and bundling via [Rollup](https://rollupjs.org/guide/en/).
@@ -32,3 +47,5 @@ $ bluprint add reuters-graphics/bluprint_github-action-scraper
 ```
 $ bluprint add reuters-graphics/bluprint_node-library
 ```
+
+
