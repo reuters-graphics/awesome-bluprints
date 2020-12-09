@@ -13,3 +13,14 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 $ bluprint add reuters-graphics/bluprint_graphics-rig
 ``` 
 
+### [GitHub Actions Scraper](https://github.com/reuters-graphics/bluprint_github-action-scraper)
+
+**What it does:** Quickstart for building Node-based scrapers that run on a timer via [GitHub Actions](https://github.com/features/actions).
+
+**In the wild:**
+ - [COVID-19 hospitalizations in Europe](https://github.com/reuters-graphics/action_covid-europe-hospitalisations)
+ - [Google mobility tracker](https://github.com/reuters-graphics/action_google-mobility-tracker)
+
+```
+$ bluprint add reuters-graphics/bluprint_github-action-scraper
+```
