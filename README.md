@@ -24,3 +24,11 @@ $ bluprint add reuters-graphics/bluprint_graphics-rig
 ```
 $ bluprint add reuters-graphics/bluprint_github-action-scraper
 ```
+
+### [Node library](https://github.com/reuters-graphics/bluprint_node-library)
+
+**What it does:** For building simple Node or JavaScript utility libraries, with built-in testing and bundling via [Rollup](https://rollupjs.org/guide/en/).
+
+```
+$ bluprint add reuters-graphics/bluprint_node-library
+```
