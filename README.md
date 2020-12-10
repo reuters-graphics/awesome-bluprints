@@ -6,6 +6,7 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 ## Bluprints
 
 - [Graphics rig](#Graphics-rig)
+- [Graphics rig + Google docs]()
 - [GitHub Actions Scraper](#GitHub-Actions-Scraper)
 - [Chart module](#Chart-module)
 - [Node library](#Node-library)
@@ -19,6 +20,14 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 ```
 $ bluprint add reuters-graphics/bluprint_graphics-rig
 ``` 
+
+### [Graphics rig + Google docs](https://github.com/reuters-graphics/bluprint-google-doc-template)
+
+**What it does:** Graphics rig stuff PLUS specifically designed to wire into a google doc, and builds a page by looping through blocks in the document. There are blocks for text, graphic, photo, and ai2html with OPTIONAL extra data on graphics and photos (captions and chart headlines et cetera will only show up if those keys exist).
+
+```
+$ bluprint add reuters-graphics/bluprint-google-doc-template
+```
 
 ### [GitHub Actions Scraper](https://github.com/reuters-graphics/bluprint_github-action-scraper)
 
