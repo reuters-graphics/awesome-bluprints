@@ -5,11 +5,11 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 
 ## Bluprints
 
-- [Graphics rig](#Graphics-rig)
-- [Graphics rig + Google docs]()
-- [GitHub Actions Scraper](#GitHub-Actions-Scraper)
-- [Chart module](#Chart-module)
-- [Node library](#Node-library)
+- [Graphics rig](#graphics-rig)
+- [Graphics rig + Google docs](#graphics-rig--google-docs)
+- [GitHub Actions Scraper](#gitHub-actions-scraper)
+- [Chart module](#chart-module)
+- [Node library](#node-library)
 
 ---
 
