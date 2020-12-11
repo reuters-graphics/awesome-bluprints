@@ -1,7 +1,7 @@
 # awesome-bluprints
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Reuters open source software](https://badgen.net/badge/Reuters/open%20source/?color=ff8000)](https://github.com/reuters-graphics/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) that do awesome things created by the Reuters Graphics team.
+An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) that do awesome things created by and for the Reuters Graphics team.
 
 ## Bluprints
 
