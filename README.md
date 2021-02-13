@@ -10,6 +10,7 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 - [GitHub Actions Scraper](#gitHub-actions-scraper)
 - [Chart module](#chart-module)
 - [Node library](#node-library)
+- [Node CLI](#node-cli)
 
 ---
 
@@ -58,3 +59,11 @@ $ bluprint add reuters-graphics/bluprint_node-library
 ```
 
 
+
+### [Node CLI](https://github.com/reuters-graphics/bluprint_node-cli)
+
+**What it does:** For building Node command line interfaces, with arg parsing from [sade](https://www.npmjs.com/package/sade), built-in mocha testing and bundling via [Rollup](https://rollupjs.org/guide/en/).
+
+```
+$ bluprint add reuters-graphics/bluprint_node-cli
+```
