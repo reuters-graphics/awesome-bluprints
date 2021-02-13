@@ -7,6 +7,7 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 
 - [Graphics rig](#graphics-rig)
 - [Graphics rig + Google docs](#graphics-rig--google-docs)
+- [U.S. roll call votes](#u-s-roll-call-votes)
 - [GitHub Actions Scraper](#gitHub-actions-scraper)
 - [Chart module](#chart-module)
 - [Node library](#node-library)
@@ -29,6 +30,16 @@ $ bluprint add reuters-graphics/bluprint_graphics-rig
 ```
 $ bluprint add reuters-graphics/bluprint-google-doc-template
 ```
+
+
+### [U.S. roll call votes](https://github.com/reuters-graphics/bluprint_roll-call-votes)
+
+**What it does:** Graphics rig stuff PLUS a built-in template for covering U.S. congressional votes.
+
+```
+$ bluprint add reuters-graphics/bluprint_roll-call-votes
+```
+
 
 ### [GitHub Actions Scraper](https://github.com/reuters-graphics/bluprint_github-action-scraper)
 
