@@ -7,7 +7,7 @@ An awesome list of [bluprints](https://github.com/reuters-graphics/bluprint) tha
 
 - [Graphics rig](#graphics-rig)
 - [Graphics rig + Google docs](#graphics-rig--google-docs)
-- [U.S. roll call votes](#u-s-roll-call-votes)
+- [U.S. roll call votes](#us-roll-call-votes)
 - [GitHub Actions Scraper](#gitHub-actions-scraper)
 - [Chart module](#chart-module)
 - [Node library](#node-library)
